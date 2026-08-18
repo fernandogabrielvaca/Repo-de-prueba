@@ -1,9 +1,7 @@
 ;===============================================================================
 ; @file       APELLIDO_ED2_TAREA_3_1.asm
 ;
-; @author     Fernando Vaca
-;	      Apellido_Nombre
-;	      Apellido_Nombre
+; @author     Fernando Vaca	      
 ;
 ; @date       17/agosto/2026
 ;
