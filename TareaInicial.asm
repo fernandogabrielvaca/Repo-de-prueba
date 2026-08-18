@@ -1,7 +1,7 @@
 ;===============================================================================
 ; @file       APELLIDO_ED2_TAREA_3_1.asm
 ;
-; @author     Fernando Gabriel Vaca	      
+; @author     Fernando Gabriel git Vaca	      
 ;
 ; @date       17/agosto/2026
 ;
